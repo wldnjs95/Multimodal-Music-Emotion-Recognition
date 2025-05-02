@@ -54,7 +54,6 @@ The Cross-Attention Fusion model outperformed other baselines, achieving the hig
 
 ## Project Structure
 ```
-```
 MER-PROJECT
 ├── data
 │   ├── loaders
@@ -71,7 +70,6 @@ MER-PROJECT
 │   └── train.py
 └── utils
     └── data_loader.py
-```
 ```
 
 ## Future Work
