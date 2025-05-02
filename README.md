@@ -44,7 +44,7 @@ Predict continuous emotional values of **Valence** (positivity) and **Arousal** 
 The Cross-Attention Fusion model outperformed other baselines, achieving the highest correlation and agreement scores for valence and arousal prediction.
 
 <img src="figures/table1.png" width="45%"/>
-<img src="figures/table2.png" width="60%"/>
+<img src="figures/table2.png" width="65%"/>
 <img src="figures/table3.png" width="60%"/>
 
 ## Key Insights
