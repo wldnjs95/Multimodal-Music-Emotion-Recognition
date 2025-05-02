@@ -29,9 +29,11 @@ Predict continuous emotional values of **Valence** (positivity) and **Arousal** 
   - Cross-Attention Fusion (Best Performing Model)
   - Modality Attention
   - Gated Fusion
-#### Baseline Model
+ 
+  
+**Baseline Model Architecture**
 <img src="figures/basemodel.png" width="50%"/>
-#### Cross Attention Model
+**Cross Attention Model Architecture**
 <img src="figures/crossmodel.png" width="50%"/>
 
 ### Best Model: Cross-Attention Fusion
