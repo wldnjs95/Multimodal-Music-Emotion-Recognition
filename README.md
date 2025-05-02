@@ -88,6 +88,11 @@ MER-PROJECT
 - Apply debiasing strategies to handle dataset biases towards older music
 - Enhance metaphorical and nuanced language interpretation in lyrics
 
+## Detailed Report
+
+[View Full Project Report](report/Multimodal Approach to Music Emotion Analysis Integrating Audio and Lyrics.pdf)
+
+
 ---
 
 *Project by Team Deep Learner.*
