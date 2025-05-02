@@ -25,7 +25,7 @@ Predict continuous emotional values of **Valence** (positivity) and **Arousal** 
   - BERT-only
 
 - **Multimodal Fusion Models**:
-- - ![basemodel](figures/basemodel.png)
+- <img src="figures/basemodel.png" width="50%"/>
   - Concat (Baseline Model)
   - Cross-Attention Fusion (Best Performing Model)
   - Modality Attention
