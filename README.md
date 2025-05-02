@@ -32,9 +32,11 @@ Predict continuous emotional values of **Valence** (positivity) and **Arousal** 
  
   
 **Baseline Model Architecture**
+
 <img src="figures/basemodel.png" width="50%"/>
 
 **Cross Attention Model Architecture**
+
 <img src="figures/crossmodel.png" width="50%"/>
 
 ### Best Model: Cross-Attention Fusion
