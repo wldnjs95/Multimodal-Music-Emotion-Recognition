@@ -90,7 +90,7 @@ MER-PROJECT
 
 ## Detailed Report
 
-![View Full Project Report](report/Multimodal Approach to Music Emotion Analysis Integrating Audio and Lyrics.pdf)
+![View Full Project Report](report/multimodal_report.pdf)
 
 
 ---
