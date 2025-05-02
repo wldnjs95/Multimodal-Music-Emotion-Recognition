@@ -33,11 +33,11 @@ Predict continuous emotional values of **Valence** (positivity) and **Arousal** 
   
 **Baseline Model Architecture**
 
-<img src="figures/basemodel.png" width="50%"/>
+<img src="figures/basemodel.png" width="30%"/>
 
 **Cross Attention Model Architecture**
 
-<img src="figures/crossmodel.png" width="50%"/>
+<img src="figures/crossmodel.png" width="30%"/>
 
 ### Best Model: Cross-Attention Fusion
 - Audio features extracted by **Audio Spectrogram Transformer (AST)**
