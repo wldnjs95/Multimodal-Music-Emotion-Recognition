@@ -4,11 +4,11 @@ A Deep Learning project that predicts the emotional content of music by integrat
 
 ---
 
-## 🎯 Goal
+## Goal
 
 Predict continuous emotional values of **Valence** (positivity) and **Arousal** (energy) from songs by leveraging both audio signals and lyrics.
 
-## 📚 Dataset
+## Dataset
 
 - **MERGE Dataset** ([Zenodo Link](https://zenodo.org/record/13939205))
   - 2000 songs
@@ -17,7 +17,7 @@ Predict continuous emotional values of **Valence** (positivity) and **Arousal** 
   - Valence and Arousal annotations by multiple raters
   - Train/Val/Test split: 70% / 15% / 15%
 
-## 🚀 Methodology
+## Methodology
 
 ### Models & Approaches
 - **Single-modal Baseline Models**:
@@ -25,6 +25,7 @@ Predict continuous emotional values of **Valence** (positivity) and **Arousal** 
   - BERT-only
 
 - **Multimodal Fusion Models**:
+  - Concat (Baseline Model)
   - Cross-Attention Fusion (Best Performing Model)
   - Modality Attention
   - Gated Fusion
