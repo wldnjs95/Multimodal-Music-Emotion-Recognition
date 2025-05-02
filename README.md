@@ -54,14 +54,24 @@ The Cross-Attention Fusion model outperformed other baselines, achieving the hig
 
 ## Project Structure
 ```
-.
+```
+MER-PROJECT
 ├── data
-│   ├── audio
-│   └── lyrics
+│   ├── loaders
+│   └── datasets.py
 ├── models
-├── notebooks
-├── utils
-└── results
+│   ├── ast_bert.py
+│   ├── cross_attention.py
+│   ├── gated_fusion.py
+│   └── modality_attention.py
+├── run
+│   └── training_models.py
+├── scripts
+│   ├── evaluate.py
+│   └── train.py
+└── utils
+    └── data_loader.py
+```
 ```
 
 ## Future Work
