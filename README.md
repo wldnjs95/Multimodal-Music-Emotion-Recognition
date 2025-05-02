@@ -25,12 +25,14 @@ Predict continuous emotional values of **Valence** (positivity) and **Arousal** 
   - BERT-only
 
 - **Multimodal Fusion Models**:
+- - ![basemodel](figures/basemodel.png)
   - Concat (Baseline Model)
   - Cross-Attention Fusion (Best Performing Model)
   - Modality Attention
   - Gated Fusion
 
 ### Best Model: Cross-Attention Fusion
+- ![cross model](figures/crossmodel.png)
 - Audio features extracted by **Audio Spectrogram Transformer (AST)**
 - Lyrics features extracted by **BERT**
 - Cross-attention mechanism to integrate multimodal information effectively
@@ -39,7 +41,9 @@ Predict continuous emotional values of **Valence** (positivity) and **Arousal** 
 
 The Cross-Attention Fusion model outperformed other baselines, achieving the highest correlation and agreement scores for valence and arousal prediction.
 
-*table image* 
+![Table 1](figures/table1.png)
+![Table 2](figures/table2.png)
+![Table 3](figures/table3.png)
 
 ## Key Insights
 
